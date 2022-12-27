@@ -1,6 +1,5 @@
 //瞎写的一个破玩应
 # LibCKalo: Main library to provide support for Careful. S & Kalo
-<img src="Screenshot_20220612-012903_VLC~2.png" width="640" height="360"/>
 
 ## 代理函数以及实际函数的说明
 （以函数eat举例）
