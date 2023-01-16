@@ -56,3 +56,7 @@ int c_eat2(struct food *f) { ... } // 小心v2逻辑
 int k_eat2(struct food *f) { ... } // 伽罗v2逻辑
 ```
 
+## 名字的来源
+    Lib         C           Kalo
+    ^~~         ^           ^~~~
+   库前缀  小心缩写(Careful)  伽罗全拼
