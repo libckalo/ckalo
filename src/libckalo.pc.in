@@ -3,7 +3,7 @@ exec_prefix=@exec_prefix@
 libdir=@libdir@
 includedir=@includedir@
 
-Name: ckalo
+Name: libckalo
 # desc should be sync with README.md
 Description: Main library to provide support for Careful. S & Kalo
 Version: @VERSION@
