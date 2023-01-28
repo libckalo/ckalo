@@ -1,7 +1,7 @@
 //瞎写的一个破玩应
 
 Copyright © 2022 Zsx
-# LibCKalo: Main library to provide support for Careful. S & Kalo
+# LibCKalo: A framework for Careful. S & Kalo
 
 ## 代理函数以及实际函数的说明
 （以函数eat举例）

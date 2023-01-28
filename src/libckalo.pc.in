@@ -5,7 +5,7 @@ includedir=@includedir@
 
 Name: libckalo
 # desc should be sync with README.md
-Description: Main library to provide support for Careful. S & Kalo
+Description: A framework for Careful. S & Kalo
 Version: @VERSION@
 Cflags: -I${includedir}
 Libs: -L${libdir} -lckalo
